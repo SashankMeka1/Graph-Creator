@@ -1,6 +1,6 @@
 class graph{
 	private:
-	char label_ls[20][20];
+	char label_ls[20][20];//variables/fucntions
 	int adj_mat[20][20] = {0};
 	int capacity = 0;
 	int sptset[20];
